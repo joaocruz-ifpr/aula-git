@@ -1,3 +1,5 @@
 arquivo03
 
+alteração realizada pelo joao na branch ramo2
+
 arquivo alterado pelo joaquim na branch main
